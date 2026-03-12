@@ -11,7 +11,7 @@
 
 ## 📸 项目预览
 
-![项目截图](https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200)
+![项目截图](./docs/screenshot.png)
 
 ## ✨ 核心特性
 
